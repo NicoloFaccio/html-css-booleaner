@@ -2,7 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box; 
-    border-color: 1px solid red;
+    border: 1px solid red;
 }
 
 #pattern {
@@ -15,18 +15,32 @@
 }
 
 #logo {
-    width: 300px;
-    height: 100px;
+    width: 20%;
     background-repeat: no-repeat;
+    margin-left: 10%;
+    padding-top: 45px;
 } 
 
-h1 {
-   font-size: 60px;
+.space {
+    margin: 0 auto;
+    width: 80%;
 }
 
-h2 {
-    font-size: 30px;
+/*h1 {
+   font-size: 60px;
+}*/
+
+h3 {
+    margin: 0;
     color: grey;
+}
+
+#Booleaner {
+    color: #55A0FF;
+}
+
+.images {
+    width: 50%;
 }
 
 div {
@@ -66,6 +80,7 @@ h3 {
     background-size: auto;
     margin-top: 20px;
     color: white;
+    padding: 30px;
 }
 
 #graph {
