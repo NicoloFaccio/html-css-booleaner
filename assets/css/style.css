@@ -2,7 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box; 
-    border-color: 1px solid red;
+    border: 1px solid red;
 }
 
 #pattern {
@@ -14,10 +14,15 @@
     
 }
 
+.space {
+    margin: 0 auto;
+    width: 80%;
+}
+
 #logo {
-    width: 300px;
-    height: 100px;
+    width: 20%;
     background-repeat: no-repeat;
+    margin-top: 30px;
 } 
 
 h1 {
@@ -27,6 +32,14 @@ h1 {
 h2 {
     font-size: 30px;
     color: grey;
+}
+
+#Booleaner {
+    color: #55A0FF;
+}
+
+.images {
+    width: 50%;
 }
 
 div {
