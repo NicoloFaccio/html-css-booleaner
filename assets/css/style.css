@@ -2,7 +2,6 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box; 
-    border: 1px solid red;
 }
 
 #pattern {
@@ -31,10 +30,6 @@
     margin: 0 auto;
     width: 80%;
 }
-
-/*h1 {
-   font-size: 60px;
-}*/
 
 h6 {
     color: grey;
@@ -89,7 +84,7 @@ h3 {
     background-size: auto;
     margin-top: 20px;
     color: white;
-    padding: 30px;
+    padding: 20px;
 }
 
 #graph {
@@ -100,5 +95,5 @@ h3 {
     background-size: auto;
     margin-top: 5px;
     color: white;
-
+    padding: 20px;
 }
